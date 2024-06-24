@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp9\bin\Debug\ychebka.mdb
+C:\Users\User\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\User\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\User\source\repos\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\User\source\repos\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\User\source\repos\WindowsFormsApp9\bin\Debug\ychebka123.mdb
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\bin\Debug\ychebka.mdb
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\bin\Debug\ychebka123.mdb
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\User\Desktop\Учебная практика\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
